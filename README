@@ -1,0 +1,4 @@
+To reproduce:
+* use rvm, install 1.9.3-p0
+* cd rubymine_gem_code_insight, "yes" for creating the gemset
+* bundle install
